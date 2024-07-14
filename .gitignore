@@ -1,0 +1,8 @@
+node_modules
+##yarn.lock
+coverage
+globalConfig.json
+.env
+yarn.lock
+dist
+.vscode/launch.json
